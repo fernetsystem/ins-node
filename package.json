@@ -1,0 +1,19 @@
+{
+  "name": "ins-node",
+  "version": "1.0.0",
+  "description": "web app for sold house",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fernetsystem/ins-node.git"
+  },
+  "author": "fernetsystem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernetsystem/ins-node/issues"
+  },
+  "homepage": "https://github.com/fernetsystem/ins-node#readme"
+}
